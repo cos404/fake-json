@@ -1,17 +1,19 @@
-[
-  {
-    "title": "N/A",
-    "id": "PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6",
-    "status": "error"
-  },
-  {
-    "title": "Введение в React Hooks",
-    "id": "PL3mtAHT_eRez9_vwZSf1hiWs2OJiBKMwd",
-    "status": "complete"
-  },
-  {
-    "title": "N/A",
-    "id": "PLqKQF2ojwm3n6YO3BDSQIg35GGKn_ImFD",
-    "status": "inProcess"
-  }
-]
+{
+  "playlists": [
+    {
+      "title": "N/A",
+      "id": "PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6",
+      "status": "error"
+    },
+    {
+      "title": "Введение в React Hooks",
+      "id": "PL3mtAHT_eRez9_vwZSf1hiWs2OJiBKMwd",
+      "status": "complete"
+    },
+    {
+      "title": "N/A",
+      "id": "PLqKQF2ojwm3n6YO3BDSQIg35GGKn_ImFD",
+      "status": "inProcess"
+    }
+  ]
+}
