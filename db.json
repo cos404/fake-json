@@ -1,4 +1,15 @@
 {
+  "sign_in": {
+    "token": "qwertyqwert.123.qwerty",
+    "user": {
+      "id": 1,
+      "username": "test",
+      "email@gmail.com": "test@gmail.com"
+    }
+  },
+  "sign_up": {
+    "message": "You registered. Now you can log in."
+  },
   "playlists": [
     {
       "title": "N/A",
@@ -15,5 +26,10 @@
       "id": "PLqKQF2ojwm3n6YO3BDSQIg35GGKn_ImFD",
       "status": "inProcess"
     }
-  ]
+  ],
+  "playlist": {
+    "id": 30,
+    "youtube_id": "PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6",
+    "status": "in_process"
+  }
 }
