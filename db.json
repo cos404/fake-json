@@ -31,5 +31,8 @@
     "id": 30,
     "youtube_id": "PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6",
     "status": "in_process"
+  },
+  "forgot_password": {
+    "message": "Link sent to email"
   }
 }
